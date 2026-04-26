@@ -2,7 +2,7 @@
 
 ## 🌐 Language / 语言
 
-> [🇺🇸 English](README.md) | [🇨🇳 中文](README.zh-cn.md)
+> [🇺🇸 English](README.en.md) | [🇨🇳 中文](README.zh-cn.md)
 
 ---
 
