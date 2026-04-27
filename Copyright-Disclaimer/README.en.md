@@ -1,8 +1,8 @@
-# Bedrock-Command-Collection
-
 ## 🌐 Language / 语言
 
 > [🇺🇸 English](README.en.md) | [🇨🇳 中文](README.zh-cn.md)
+
+> [🔙 Parent Directory](../)
 
 ---
 
