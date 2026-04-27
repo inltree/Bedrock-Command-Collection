@@ -2,7 +2,7 @@
 
 > [🇺🇸 English](README.en.md) | [🇨🇳 中文](README.zh-cn.md)
 
-> [🔙 返回上级](../README.md)
+> [🔙 父级目录](../Bedrock-Command-Collection)
 
 ---
 
