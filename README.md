@@ -6,6 +6,8 @@
 ## Language / 语言
 > [🇺🇸 English](Docs/Language/README.en.md)｜[🇨🇳 简体中文](README.md)
 
+> [🔙 返回仓库](https://github.com/inltree/Bedrock-Command-Collection/)
+
 ### 命令方块属性对照表
 | 类型 | 选项 | 表情 |
 | :--- | :--- | :--- |
