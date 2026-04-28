@@ -1,6 +1,6 @@
 ## 🌐 语言 / Language
 
-> [🇺🇸 English](README.en.md) | [🇨🇳 中文](README.zh-cn.md)
+> [🇺🇸 English](README.en.md) | [🇨🇳 简体中文](README.zh-cn.md)
 
 > [🔙 返回仓库](https://github.com/inltree/Bedrock-Command-Collection/)
 

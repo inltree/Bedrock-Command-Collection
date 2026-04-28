@@ -1,12 +1,9 @@
 # Bedrock-Command-Collection
 
-## Copyright&Disclaimer / 版权与免责声明
-> [🇺🇸 English](Docs/Copyright-Disclaimer/README.en.md)｜[🇨🇳 简体中文](Docs/Copyright-Disclaimer/README.zh-cn.md)
+Copyright&Disclaimer｜版权与免责声明
+[🇺🇸 English](Docs/Copyright-Disclaimer/)｜[🇨🇳 简体中文](Docs/Copyright-Disclaimer/)
 
-## Language / 语言
-> [🇺🇸 English](Docs/Language/README.en.md)｜[🇨🇳 简体中文](README.md)
-
-### 命令方块属性对照表
+## 命令方块属性对照表
 | 类型 | 选项 | 表情 |
 | :--- | :--- | :--- |
 | 方块类型 | 脉冲 | `🟠` |
@@ -18,7 +15,7 @@
 | 激活类型 | 保持开启 | `🔴` |
 | 延迟 | 延迟数值 | `⏳` |
 
-### 格式模板
+## 格式模板
 
 - 表情模板：
 【方块类型 <🟠/🟢/🟣>｜条件类型 <☑️/✅>｜激活类型 <⭕/🔴>｜⏳ <数值>】
@@ -27,7 +24,6 @@
 【方块类型 <脉冲/连锁/循环>｜条件类型 <无条件/不受制约/有条件/条件制约>｜激活类型 <红石控制/保持开启>｜延迟 <数值>】
 
 ### 示例模板
-
 #### 兑换系统
 - 信息：使用物品进行兑换另一个物品！
 - 修改时间：2026-04-28 22:32:15
@@ -37,28 +33,28 @@
     - [x] 是否授权
     - [x] 是否借鉴：[minecraft-wiki](#)/[bilibili](#)
 
-- 1. 【🟠｜☑️｜⭕｜⏳ 0】
+- 1. 【脉冲｜不受制约｜红石激活｜延迟 0】
 ```command
 execute as @p run titleraw @s title {"rawtext":[{"translate":"%%2","with":{"rawtext":[{"selector":"@s[hasitem={item=emerald,quantity=64..}]"},{"text":"§a兑换成功\n\n"},{"text":"§c兑换失败\n\n"}]}}]}
 ```
-- 2. 【🟢｜☑️｜🔴｜⏳ 0】
+- 2. 【连锁｜不受制约｜保持开启｜延迟 0】
 ```command
 execute as @p run clear @s[hasitem={item=emerald,quantity=64..}] emerald 0 64
 ```
-- 3. 【🟢｜✅｜🔴｜⏳ 0】
+- 3. 【连锁｜条件制约｜保持开启｜延迟 0】
 ```command
 playsound random.orb @p
 ```
-- 4. 【🟢｜✅｜🔴｜⏳ 0】
+- 4. 【连锁｜条件制约｜保持开启｜延迟 0】
 ```command
 scoreboard players add @p "Coins" 0
 ```
-- 5. 【🟢｜✅｜🔴｜⏳ 0】
+- 5. 【连锁｜条件制约｜保持开启｜延迟 0】
 ```command
 give @p apple 64 0
 ```
 
-### 格式对照表
+### 格式模板
 
 | 序号 | 表情格式 | 文本格式 |
 | :---: | :--- | :--- |
