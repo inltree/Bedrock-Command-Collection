@@ -1,12 +1,12 @@
 # Bedrock-Command-Collection
 
 ## Copyright&Disclaimer / 版权与免责声明
-> [🇺🇸 English](Copyright-Disclaimer/README.en.md)｜[🇨🇳 简体中文](Copyright-Disclaimer/README.zh-cn.md)
+> [🇺🇸 English](https://github.com/inltree/Bedrock-Command-Collection/blob/main/Docs/Copyright-Disclaimer/README.en.md)｜[🇨🇳 简体中文](https://github.com/inltree/Bedrock-Command-Collection/blob/main/Docs/Copyright-Disclaimer/README.zh-cn.md)
 
 ## Language / 语言
 > [🇺🇸 English](README.en.md)｜[🇨🇳 简体中文](https://github.com/inltree/Bedrock-Collection)
 
-> [🔙 Back to Repository](https://github.com/inltree/Bedrock-Collection)
+> [🔙 Back to Repository](https://github.com/inltree/Bedrock-Command-Collection)
 
 ## Command Block Property Comparison Table
 | Category | Option | Emoji |
