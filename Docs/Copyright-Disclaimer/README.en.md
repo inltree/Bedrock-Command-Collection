@@ -2,7 +2,7 @@
 
 > [🇺🇸 English](README.en.md) | [🇨🇳 中文](README.zh-cn.md)
 
-> [🔙 Parent Directory](../)
+> [🔙 Back to Repository](https://github.com/inltree/Bedrock-Collection)
 
 ---
 
